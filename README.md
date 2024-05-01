@@ -15,4 +15,4 @@
 
 ##### main skils
 
-![python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg)
+<small> ![python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg)
