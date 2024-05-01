@@ -15,4 +15,4 @@
 
 ##### main skils
 
-<small> ![python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg)
+[![My Skills](https://skillicons.dev/icons?i=python,github,figma&theme=light)](https://skillicons.dev)
