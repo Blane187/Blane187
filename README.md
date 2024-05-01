@@ -15,4 +15,4 @@
 
 ##### main skils
 
-[![My Skills](https://skillicons.dev/icons?i=python,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,github,&theme=light)](https://skillicons.dev)
