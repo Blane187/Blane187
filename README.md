@@ -12,9 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, and creating innovati
 - **Main Languages:** Python, jupyter notebook (google colab)
 
 
-## 📈 GitHub Stats
-
-![Blane187's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blane187&show_icons=true&theme=dark)
+## 📉 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blane187&layout=compact&theme=dark)
 
 ## 📂 Projects
@@ -26,11 +24,7 @@ Here are projects I've worked on:
 ## 🌱 Currently Learning
 
 - Machine learning and AI
-- Python N stufd
-## 📫 Contact Me
-
-- **Email:** laynzch@gmail.com
-
+- Python N stuff
 
 ---
 
