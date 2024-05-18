@@ -26,6 +26,10 @@ Here are projects I've worked on:
 - Machine learning and AI
 - Python N stuff
 
+# other media 💻
+
+• Huggingface - https://huggingface.co/Hev832
+
 ---
 
 Thanks for visiting my profile! Have a great day! >:)
