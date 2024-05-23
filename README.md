@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Blane187 <small><br>(not real name :])
+# 👋 Hello! I'm Blane187
 
 Welcome to my GitHub profile! I'm passionate about coding, and creating innovative solutions. Here you'll find a collection of my projects, contributions, and ideas.
 
