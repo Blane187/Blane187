@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, and creating innovati
 
 Here are projects I've worked on:
 
-• **[RVC DATASET MAKER WEBUI:](https://github.com/Blane187/rvc-dataset-maker-webui.git)**<br> • **[Blane RVC]**(https://github.com/Blane187/Blane-RVC)
+• **[RVC DATASET MAKER WEBUI:](https://github.com/Blane187/rvc-dataset-maker-webui.git)** <br> • **[Blane RVC](https://github.com/Blane187/Blane-RVC)**
 
 ## 🌱 Currently Learning
 
